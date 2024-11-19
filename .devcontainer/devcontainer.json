@@ -9,9 +9,10 @@
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"vadimcn.vscode-lldb",
-				"GitHub.copilot-nightly",
 				"asvetliakov.vscode-neovim",
-				"HenryTsz.nvim"
+				"HenryTsz.nvim",
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
 			]
 		}
 	},
