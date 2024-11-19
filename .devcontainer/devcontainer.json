@@ -9,7 +9,6 @@
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"vadimcn.vscode-lldb",
-				"asvetliakov.vscode-neovim",
 				"HenryTsz.nvim",
 				"GitHub.copilot",
 				"GitHub.copilot-chat"
